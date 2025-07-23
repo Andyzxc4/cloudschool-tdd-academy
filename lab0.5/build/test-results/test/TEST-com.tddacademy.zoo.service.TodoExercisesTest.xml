@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.tddacademy.zoo.service.TodoExercisesTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2025-07-21T02:56:34" hostname="gfitftlapt02273.ad.mynt.xyz" time="0.432">
+<testsuite name="com.tddacademy.zoo.service.TodoExercisesTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2025-07-23T10:30:38" hostname="GXCHLAP00688" time="0.672">
   <properties/>
-  <testcase name="TODO: Mock Exercise 1 - Should find animal by species" classname="com.tddacademy.zoo.service.TodoExercisesTest" time="0.4"/>
-  <testcase name="TODO: Advanced Exercise 1 - Should verify multiple repository calls" classname="com.tddacademy.zoo.service.TodoExercisesTest" time="0.005"/>
+  <testcase name="TODO: Mock Exercise 1 - Should find animal by species" classname="com.tddacademy.zoo.service.TodoExercisesTest" time="0.635"/>
+  <testcase name="TODO: Advanced Exercise 1 - Should verify multiple repository calls" classname="com.tddacademy.zoo.service.TodoExercisesTest" time="0.008"/>
   <testcase name="TODO: Stub Exercise 2 - Should handle empty repository with stub" classname="com.tddacademy.zoo.service.TodoExercisesTest" time="0.002"/>
-  <testcase name="TODO: Spy Exercise 2 - Should verify SMS notification for animal removal" classname="com.tddacademy.zoo.service.TodoExercisesTest" time="0.007"/>
-  <testcase name="TODO: Mock Exercise 2 - Should handle animal not found" classname="com.tddacademy.zoo.service.TodoExercisesTest" time="0.001"/>
+  <testcase name="TODO: Spy Exercise 2 - Should verify SMS notification for animal removal" classname="com.tddacademy.zoo.service.TodoExercisesTest" time="0.008"/>
+  <testcase name="TODO: Mock Exercise 2 - Should handle animal not found" classname="com.tddacademy.zoo.service.TodoExercisesTest" time="0.002"/>
   <testcase name="TODO: Mock Exercise 3 - Should verify repository save was called" classname="com.tddacademy.zoo.service.TodoExercisesTest" time="0.003"/>
   <testcase name="TODO: Stub Exercise 3 - Should get animal count with stub" classname="com.tddacademy.zoo.service.TodoExercisesTest" time="0.001"/>
   <testcase name="TODO: Stub Exercise 1 - Should calculate average weight with stub data" classname="com.tddacademy.zoo.service.TodoExercisesTest" time="0.001"/>
